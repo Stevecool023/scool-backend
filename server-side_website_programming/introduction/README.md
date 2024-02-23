@@ -24,6 +24,7 @@ This includes:
 * navigation
 * form validation
 * etc.
+
 On the other hand, server-side website programming mostly involves choosing which content is returned to the browser in response to requests.
 Server-side code handles tasks like:
 * validating submitted data and requests
