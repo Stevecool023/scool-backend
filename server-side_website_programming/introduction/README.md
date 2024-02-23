@@ -3,7 +3,8 @@ Understanding additional power available to websites through server-side coding.
 Server-side programming is also known as back-end scripting.<br />
 
 <br />
-*** Two types of websites: ***
+***Two types of websites:***
+
 ### Static websites.
 Served content is hand-coded and never changes.<br />
 **Basic web server architecture for a static site:**
