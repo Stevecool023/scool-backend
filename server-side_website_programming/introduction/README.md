@@ -1,8 +1,8 @@
 # Introduction to server side.
 Understanding additional power available to websites through server-side coding.<br />
 Server-side programming is also known as back-end scripting.<br />
-
 <br />
+
 ***Two types of websites:***
 
 ### Static websites.
