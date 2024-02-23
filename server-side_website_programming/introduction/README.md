@@ -19,4 +19,12 @@ Content is produced dynamically, like in HTML content is served through placehol
 ## Server-side versus client-side programming.
 Client-side code is primarily concerned with improving the appearance and behavior of a rendered web page.
 This includes:
-* selecting and styling U
+* selecting and styling UI components
+* creating layouts
+* navigation
+* form validation
+* etc.
+On the other hand, server-side website programming mostly involves choosing which content is returned to the browser in response to requests.
+Server-side code handles tasks like:
+* validating submitted data and requests
+* using databases to store and retrieve data and sending correct data to the client as required.
