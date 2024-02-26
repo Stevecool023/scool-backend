@@ -12,4 +12,4 @@ To do list:
 ## The LocalLibrary website.
 * The purpose of this website is to provide an online catalog for small local library, where users can browse available books and manage their accounts.
 
-*** fully developed version of the website *** https://github.com/mdn/express-locallibrary-tutorial
+***fully developed version of the website*** https://github.com/mdn/express-locallibrary-tutorial
