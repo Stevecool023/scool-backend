@@ -162,7 +162,7 @@ async function createBooks() {
   ]);
 }
 
-async function createBookInstance() {
+async function createBookInstances() {
   console.log("Adding authors");
   await Promise.all([
     bookInstanceCreate(0, books[0], "London Gollancz, 2014.", false, "Available"),
