@@ -27,5 +27,9 @@ AuthorSchema.virtual("url").get(function () {
   return `/catalog/author/${this._id}`;
 });
 
+AuthorSchema.virtual("due_back_formatted").get(function () {
+  return this.date_of_birth ? DateTime.fromJSDate(this.date_of_birth).toLocaleString(DateTime.DATE_MED) : '';
+});
+
 // Export model
 module.exports = mongoose.model("Author", AuthorSchema);
